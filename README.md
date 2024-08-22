@@ -104,6 +104,6 @@ Generated Caption: "A group of people standing on a beach with surfboards."
 
 ---
 
-Feel free to customize this README as per your specific project details and structure.
+
 
 
